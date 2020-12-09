@@ -10,3 +10,15 @@ A fitness app that allows the user to view, create, and track daily workouts. Th
 3. node server.js
 
 Running seeders/seed.js is optional to have a prepopulated database.
+
+## Usage
+
+### Screeshots
+
+1. Example 1
+
+![Site]()
+
+2. Example 2
+
+![Site]()
