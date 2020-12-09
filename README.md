@@ -11,6 +11,10 @@ A fitness app that allows the user to view, create, and track daily workouts. Th
 
 Running seeders/seed.js is optional to have a prepopulated database.
 
+<p align="center">
+    <a href="https://murmuring-beach-80984.herokuapp.com/"><img src="https://img.shields.io/badge/-👉 See Live Site-success?style=for-the-badge"  alt="Live Site" /></a>
+</p>
+
 ## Usage
 
 ### Screeshots
