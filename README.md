@@ -17,8 +17,8 @@ Running seeders/seed.js is optional to have a prepopulated database.
 
 1. Example 1
 
-![Site]()
+![Site](workout1.png)
 
 2. Example 2
 
-![Site]()
+![Site](workout2.png)
